@@ -1,4 +1,4 @@
-![MasterHead](https://www.linedata.com/sites/default/files/2022-06/PART%201%20ANIMATED%20-%203_0.gif)
+![MasterHead](https://giffiles.alphacoders.com/174/1744.gif)
 <h1 align="center">Hi 👋, I'm Aman Joshi</h1>
 <h3 align="center">A passionate Cyber Security Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif">
